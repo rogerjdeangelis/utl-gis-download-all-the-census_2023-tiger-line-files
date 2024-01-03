@@ -2,6 +2,10 @@
 
 GIS download all the census 2023 tiger line files. The result is 49 zip files instead of ~20,000 zip files (small 16gb)
 
+github                                                                                   
+http://tinyurl.com/4zxmb47r                                                              
+https://github.com/rogerjdeangelis/utl-gis-download-all-the-census_2023-tiger-line-files 
+
 If you want just the zipcode single map file maps
 www2.census.gov/geo/tiger/TIGER2023/ZCTA520/
 tl_2023_us_zcta520.zip
